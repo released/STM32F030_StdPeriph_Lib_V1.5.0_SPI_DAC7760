@@ -1,3 +1,0 @@
----- DAC7760_SPI_ReadRegister Matches (2 in 2 files) ----
-spi_DAC7760.c (Projects\STM32F0xx_StdPeriph_Templates):uint16_t DAC7760_SPI_ReadRegister(uint8_t Address)
-spi_DAC7760.h (Projects\STM32F0xx_StdPeriph_Templates):uint16_t DAC7760_SPI_ReadRegister(uint8_t Address);
